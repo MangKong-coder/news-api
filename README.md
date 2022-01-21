@@ -1,2 +1,2 @@
 # news-api
-This is a News API built with NestJs
+This is a News API built with Fastify
